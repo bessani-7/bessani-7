@@ -2,7 +2,6 @@
 _Me chamo Murylo_
 *Tenho 15 anos, Moro em Palmitopolis e estudo no Wencslau Bráś*
 Gosto do cr7
-## _Tenho mulher, não se aproxime mocreia_
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem javaScript
 Utilizo esse espaço para minha organização e 
