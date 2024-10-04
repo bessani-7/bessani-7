@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**bessani-7/bessani-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bem vindos ao meu Perfíl
+_Me chamo Murylo_
+*Tenho 15 anos, Moro em Palmitopolis e estudo no Wencslau Bráś*
+Gosto do cr7
+## _Tenho mulher, não se aproxime mocreia_
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem javaScript
+Utilizo esse espaço para minha organização e 
+compartilhamento dos meus projetos desenvolvidos 
+EU gosto de jogar bola e jogar Brawl Stars
